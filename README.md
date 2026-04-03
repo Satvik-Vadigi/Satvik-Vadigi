@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Satvik 👋
 
-<!--
-**Satvik-Vadigi/Satvik-Vadigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer (MERN) focused on building scalable web applications.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- Build full-stack web apps using React, Node.js, Express, MongoDB
+- Develop REST APIs and backend systems
+- Deploy applications using Vercel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tech Stack
+- Frontend: React, HTML, CSS, JavaScript  
+- Backend: Node.js, Express  
+- Database: MongoDB  
+
+## 📌 Featured Projects
+
+### 📝 Task Manager App
+Full-stack MERN application with CRUD functionality  
+🔗 Live: https://production-todo-mern-frontend-satvik-vadigis-projects.vercel.app/  
+
+### 🏠 Real Estate Website
+Frontend-focused real estate platform  
+🔗 Live: https://satvik-vadigi.github.io/Self-Real-Estate-Website/
+
+### 🌐 Portfolio Website
+Personal portfolio showcasing projects and skills  
+🔗 Live: https://my-personal-portfolio-virid-xi.vercel.app/
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/satvik-vadigi/
