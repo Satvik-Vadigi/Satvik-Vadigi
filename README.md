@@ -14,6 +14,10 @@ Full Stack Developer (MERN) focused on building scalable web applications.
 
 ## 📌 Featured Projects
 
+### 🌐 Portfolio Website
+Personal portfolio showcasing projects and skills  
+🔗 Live: https://my-personal-portfolio-virid-xi.vercel.app/
+
 ### 📝 Task Manager App
 Full-stack MERN application with CRUD functionality  
 🔗 Live: https://production-todo-mern-frontend-satvik-vadigis-projects.vercel.app/  
@@ -22,9 +26,6 @@ Full-stack MERN application with CRUD functionality
 Frontend-focused real estate platform  
 🔗 Live: https://satvik-vadigi.github.io/Self-Real-Estate-Website/
 
-### 🌐 Portfolio Website
-Personal portfolio showcasing projects and skills  
-🔗 Live: https://my-personal-portfolio-virid-xi.vercel.app/
 
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/satvik-vadigi/
